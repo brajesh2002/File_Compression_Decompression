@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #include "getTextString.h"
-#include "frequency_of_character.h"
+#include "frequency_of_character.h" 
 #include "creat_node.h"  
 #include "insert_nodes_in_minHeap.h"
 #include "build_huffman_tree.h"
